@@ -1,4 +1,4 @@
-import s from './TransactionHistory.css'
+import './TransactionHistory.css'
 export const TransactionHistory = ({ items }) => {
   return (
     <table class="transaction-history">
